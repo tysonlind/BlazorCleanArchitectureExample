@@ -6,11 +6,11 @@
 
 ### Explanations of each part
 
-#### Presentation (CleanArchitectureBlazorExample.WebUI.Client / CleanArchitectureBlazorExample.WebUI.Server)
+#### Presentation Layer (CleanArchitectureBlazorExample.WebUI.Client / CleanArchitectureBlazorExample.WebUI.Server)
 Handles user interface and presentation logic. For Blazor, this includes your Razor components and pages. It's responsible for displaying data and capturing user input, passing it to the application layer for processing.
 For static pages and single-way binding I will use server side rendering. For two-way data binding and more complex user interactions I will use WASM and client-side rendering.
 
-#### Application (CleanArchitectureBlazorExample.Application)
+#### Application Layer (CleanArchitectureBlazorExample.Application)
 Defines business logic, rules, and workflows. It coordinates actions and orchestrates interaction between entities and services. This layer is independent of external frameworks.
 
 #### Infrastructure Layer (CleanArchitectureBlazorExample.Infrastructure)
