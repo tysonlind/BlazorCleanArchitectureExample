@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MJhRN2MZ2IA=",
+  "dgSpecHash": "Kk+7tX2MVUQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Infrastructure\\CleanArchitectureBlazorExample.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tyson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

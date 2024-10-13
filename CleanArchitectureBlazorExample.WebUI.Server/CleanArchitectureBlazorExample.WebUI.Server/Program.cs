@@ -1,4 +1,6 @@
 using CleanArchitectureBlazorExample.WebUI.Server.Components;
+using CleanArchitectureBlazorExample.Application;
+using CleanArchitectureBlazorExample.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
+builder.Services.AddApplication();
+builder.Services.AddInfrastructure();
 
 var app = builder.Build();
 
@@ -29,6 +33,6 @@ app.UseAntiforgery();
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
-    .AddAdditionalAssemblies(typeof(CleanArchitectureBlazorExample.WebUI.Server.Client._Imports).Assembly);
+    .AddAdditionalAssemblies(typeof(CleanArchitectureBlazorExample.WebUI.Client._Imports).Assembly);
 
 app.Run();

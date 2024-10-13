@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D78CBCDB-E2C9-480B-BADE-3666A6F4D3CB}|CleanArchitectureBlazorExample.Infrastructure\\CleanArchitectureBlazorExample.Infrastructure.csproj|c:\\users\\tyson\\source\\repos\\cleanarchitectureblazorexample\\cleanarchitectureblazorexample.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D78CBCDB-E2C9-480B-BADE-3666A6F4D3CB}|CleanArchitectureBlazorExample.Infrastructure\\CleanArchitectureBlazorExample.Infrastructure.csproj|solutionrelative:cleanarchitectureblazorexample.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D78CBCDB-E2C9-480B-BADE-3666A6F4D3CB}|CleanArchitectureBlazorExample.Infrastructure\\CleanArchitectureBlazorExample.Infrastructure.csproj|c:\\users\\tyson\\source\\repos\\cleanarchitectureblazorexample\\cleanarchitectureblazorexample.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78CBCDB-E2C9-480B-BADE-3666A6F4D3CB}|CleanArchitectureBlazorExample.Infrastructure\\CleanArchitectureBlazorExample.Infrastructure.csproj|solutionrelative:cleanarchitectureblazorexample.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AD64EE-056E-4F6C-B441-C1C67C9A32EF}|CleanArchitectureBlazorExample.Application\\CleanArchitectureBlazorExample.Application.csproj|c:\\users\\tyson\\source\\repos\\cleanarchitectureblazorexample\\cleanarchitectureblazorexample.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AD64EE-056E-4F6C-B441-C1C67C9A32EF}|CleanArchitectureBlazorExample.Application\\CleanArchitectureBlazorExample.Application.csproj|solutionrelative:cleanarchitectureblazorexample.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63B905D-C4E7-4490-B236-389695AE2A6F}|CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.csproj|c:\\users\\tyson\\source\\repos\\cleanarchitectureblazorexample\\cleanarchitectureblazorexample.webui.server\\cleanarchitectureblazorexample.webui.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63B905D-C4E7-4490-B236-389695AE2A6F}|CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.csproj|solutionrelative:cleanarchitectureblazorexample.webui.server\\cleanarchitectureblazorexample.webui.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533C1881-6025-49FD-B9AA-B2D8FECF37D2}|CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.Client\\CleanArchitectureBlazorExample.WebUI.Client.csproj|c:\\users\\tyson\\source\\repos\\cleanarchitectureblazorexample\\cleanarchitectureblazorexample.webui.server\\cleanarchitectureblazorexample.webui.server.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{533C1881-6025-49FD-B9AA-B2D8FECF37D2}|CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.Client\\CleanArchitectureBlazorExample.WebUI.Client.csproj|solutionrelative:cleanarchitectureblazorexample.webui.server\\cleanarchitectureblazorexample.webui.server.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08AD64EE-056E-4F6C-B441-C1C67C9A32EF}|CleanArchitectureBlazorExample.Application\\CleanArchitectureBlazorExample.Application.csproj|c:\\users\\tyson\\source\\repos\\cleanarchitectureblazorexample\\cleanarchitectureblazorexample.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,19 +35,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "CleanArchitectureBlazorExample.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "CleanArchitectureBlazorExample.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureBlazorExample.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchitectureBlazorExample.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:22:32.965Z",
+              "WhenOpened": "2024-10-13T23:30:19.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server\\Program.cs",
+              "RelativeToolTip": "CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:23:51.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CleanArchitectureBlazorExample.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "CleanArchitectureBlazorExample.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T23:24:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.Client\\_Imports.razor",
+              "RelativeToolTip": "CleanArchitectureBlazorExample.WebUI.Server\\CleanArchitectureBlazorExample.WebUI.Server.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T23:23:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\tyson\\source\\repos\\CleanArchitectureBlazorExample\\CleanArchitectureBlazorExample.Application\\Class1.cs",
               "RelativeDocumentMoniker": "CleanArchitectureBlazorExample.Application\\Class1.cs",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "CleanArchitectureBlazorExample.Application\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T18:21:54.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T18:21:54.342Z"
             }
           ]
         }
